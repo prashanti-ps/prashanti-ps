@@ -1,1 +1,1 @@
-![github-header-image (6)](https://github.com/prashanti-ps/prashanti-ps/assets/78148121/58f49269-85ea-417e-821e-2a2d4f3ff17c)
+![pngtree-big-data-engineering-abstract-concept-vector-illustration-png-image_6054456 (1)](https://github.com/prashanti-ps/prashanti-ps/assets/78148121/43636f1c-2fde-4b22-b9ef-daaa69c0dcdc)
