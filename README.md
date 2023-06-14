@@ -1,1 +1,1 @@
-![github-header-image (5)](https://github.com/prashanti-ps/prashanti-ps/assets/78148121/8d491665-09b0-40d2-983b-61e0f90e73ea)
+![github-header-image (6)](https://github.com/prashanti-ps/prashanti-ps/assets/78148121/58f49269-85ea-417e-821e-2a2d4f3ff17c)
