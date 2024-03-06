@@ -10,4 +10,17 @@
 
 ## Recent Projects
 
+### [HealthCare Analytics GCP and AWS](https://github.com/prashanti-ps/HealthCare-Analytics)
+
+### [Big Data Stock Analysis Pipeline](https://github.com/prashanti-ps/Big_Data_Stock_Analysis_With_Cloud)
+### [Uber Analytics Pipeline](https://github.com/prashanti-ps/Uber_Data_Analysis_Pipeline)
+
+### [IMDB Data Integration and Business Intelligence System](https://github.com/prashanti-ps/IMDB_Data_Integration_and_Visualization_System)
+
+### [Boston Food Inspection Data Warehouse](https://github.com/prashanti-ps/Boston_Food_Inspection_DataWarehouse)
+
+### [USA House Price Prediction](https://github.com/prashanti-ps/United_States_House_Rent_Prediction)
+
+
+
 
