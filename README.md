@@ -5,7 +5,6 @@
 
 ## Certifications
 ### Google Cloud Certified Associate Cloud Engineer
-### Big Data Developer - Trendy Tech LLP
 ### SQL Advanced Certification - HackerRank
 
 ## Recent Projects
