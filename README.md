@@ -16,6 +16,8 @@
 
 ### [Boston Food Inspection Data Warehouse](https://github.com/prashanti-ps/Boston_Food_Inspection_DataWarehouse)
 
+### [Twitter ETL Data Pipeline with Airflow and S3](https://github.com/prashanti-ps/Twitter_Airflow_Data_Pipeline) 
+
 ### [USA House Price Prediction](https://github.com/prashanti-ps/United_States_House_Rent_Prediction)
 
 
