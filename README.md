@@ -11,7 +11,7 @@
 
 ## Recent Projects
 
-### [Big Data Stock Analysis Pipeline with Google Cloud](https://github.com/prashanti-ps/Big_Data_Stock_Analysis_With_Cloud)
+### [Big Data Stock Analysis Pipeline with Spark on Google Cloud](https://github.com/prashanti-ps/Big_Data_Stock_Analysis_With_Cloud)
 
 ### [Uber Analytics Pipeline](https://github.com/prashanti-ps/Uber_Data_Analysis_Pipeline)
 
