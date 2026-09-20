@@ -3,7 +3,8 @@
 ## Skills and Experience
 ### Spark | Python | SQL | Data Warehousing | Agentic AI
 
-#### Current: Data Engineer at CVS Health <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/da007331-d7e4-40ee-908e-3a56841e0c9a" />
+#### Current: Data Engineer at CVS Health <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6630078e-83d8-45dd-b839-312b414cc228" />
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------
