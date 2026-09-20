@@ -5,6 +5,7 @@
 
 
 ## Certifications
+### Google Cloud Certified Professional Data Engineer
 ### Google Cloud Certified Associate Cloud Engineer
 ### SQL Advanced Certification - HackerRank
 
