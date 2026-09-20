@@ -6,6 +6,7 @@
 #### Current: Data Engineer at CVS Health
 
 
+
 ## Certifications
 ### Google Cloud Certified Professional Data Engineer
 ### Google Cloud Certified Associate Cloud Engineer
